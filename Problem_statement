@@ -1,0 +1,5 @@
+Problem statement.
+A project in XOS.Each group can perform RR scheduling algorithm and implement that in XOS. The number of processes to consider = (Your group number % 3 )+3 Group 16 -> (16 % 3 )+3 =4 Group 4 -> ( 4% 3) +3 = 4 Min Burst requirement for each process= (Group_number % 5)+5 Time Quantum A batch -> 3 Time Quantum A batch ->3
+So here we have taken Time Quantum as 3 and the number of process as (16% 3 )+3=4
+Min Burst time (16%5)+5
+So the minimum burst time we should take here is 6 so here we have taken burst time as 9.
